@@ -1,2 +1,27 @@
 # BgAzerty
-Bulgarian phonetic layout for Belgian French "AZERTY" keyboards.
+Българска фонетична подредба за белгийски френскоезични "AZERTY" клавиатури. Основава се на българската (традиционна фонетична) и белгийската френска клавиатурна подредба.
+
+# Инсталиране
+## Инсталационен файл (препоръчително)
+Изтеглете "SETUP.zip", разархивирайте го и изпълнете "setup.exe".
+Когато приключи, излезте и след това отново влезте в Windows акаунта си на Вашия компютър.
+
+## Създаване на инсталационен файл от изходен код
+Изтеглете "BgAzerty.klc".
+Отворете го в Keyboard Layout Creator.
+Отидете на "Project" > "Build DLL and Setup Package", след което "setup.exe" ще бъде създаден.
+Изпълнете "setup.exe".
+Когато приключи, излезте и след това отново влезте в Windows акаунта си на Вашия компютър.
+
+# Деинсталиране
+За разлика от клавиатурните подредби предоставени с Windows, BgAzerty и създадените с Keyboard Layout Creator подредби могат да бъдат деинсталирани от Контролния Панел както другите програми които сте инсталирали.
+
+# Снимки
+## Нормално
+![BgAzerty](https://user-images.githubusercontent.com/35344929/154562749-f9aa0777-e856-4e62-9dd9-95df396d587c.jpg)
+
+## Shift
+![BgAzertyShft](https://user-images.githubusercontent.com/35344929/154562763-d2a9c1d6-9306-4244-977a-897a164b5815.jpg)
+
+## Alt+Ctrl (AltGr)
+![BgAzertyAltGr](https://user-images.githubusercontent.com/35344929/154562774-dde8e476-147a-4910-897d-83186b29a100.jpg)
